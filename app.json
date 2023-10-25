@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "rn-jobs",
-    "slug": "rn-jobs"
+    "slug": "rn-jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e0e38362-9553-4636-b4bb-1e5db039ae52"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e0e38362-9553-4636-b4bb-1e5db039ae52"
+    },
+    "android": {},
+    "ios": {}
   }
 }
